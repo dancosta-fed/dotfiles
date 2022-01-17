@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dancosta.id@gmail.com
+	name = Daniel Costa
